@@ -1,2 +1,2 @@
-# Udacity_Data_Analyst_Project_3
+# git_hub_udacity
 Coding project 3 in data analyst course 
